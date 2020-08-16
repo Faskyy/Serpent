@@ -1,3 +1,3 @@
-# snake
-classic old game that everybody played in the early 2000's
-coded using JAVA on Eclipse IDE
+# S N A K E
+If you played this you had a great childhood.
+If you still play this then you're awesome.
